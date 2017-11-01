@@ -1,0 +1,4 @@
+Source: paho-mqtt-cpp
+Version:  1.0.0
+Description:  Modern C++ (C++11) wrapper to the Paho MQTT C library
+Build-Depends: paho-mqtt, openssl
